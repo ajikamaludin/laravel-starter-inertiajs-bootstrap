@@ -1,0 +1,15 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+body {
+    height: 100% !important;
+}
+
+.absolute-center {
+    position: absolute !important;
+    left: 50% !important;
+    top: 50% !important;
+}
+
+.font-bold {
+    font-weight: bold;
+}

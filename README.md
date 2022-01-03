@@ -14,7 +14,7 @@ starter kit to develop with laravel 8 setup inertiajs with react and bootstrap 5
 ## How to start 
 
 ```bash
-$ cp .env.example .env
+$ cp .env.example .env # setup your database
 $ composer install
 $ npm install
 $ npm run dev # optional only if any changes you make in resource/js
